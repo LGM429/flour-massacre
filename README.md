@@ -1,0 +1,1 @@
+This repository holds data and details that I used in my analysis of chyrons used by cable news channels on the February 29 mass killing of civilians by the Israeli military in Gaza City, now dubbed the Flour Massacre
